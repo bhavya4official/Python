@@ -8,6 +8,7 @@ x += 3  # Augmented / enhanced assignment operator
 print(x)
 
 """Operator precedence:
+>Parenthesis
 >Exponentiation
 >Multiplication or Division
 >Addition or Subtraction"""
