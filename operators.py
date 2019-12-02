@@ -11,3 +11,6 @@ print(x)
 >Exponentiation
 >Multiplication or Division
 >Addition or Subtraction"""
+
+y = 10 + 3 * 2 ** 2
+print(y)
