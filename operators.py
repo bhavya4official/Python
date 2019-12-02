@@ -6,3 +6,8 @@ print(10 ** 3)  # Exponent (power)
 x = 10
 x += 3  # Augmented / enhanced assignment operator
 print(x)
+
+"""Operator precedence:
+>Exponentiation
+>Multiplication or Division
+>Addition or Subtraction"""
