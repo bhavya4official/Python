@@ -11,4 +11,7 @@ print(course.replace('course', 'language'))
 print('Print' in course)  # in operator return boolean value (True/False) for existence of a char/string
 
 # print is a general purpose function (it does not belong to specific object)
-# In OOPs, function that belong/specific to some kind of object = metho
+# In OOPs, function that belong/specific to some kind of object = method
+
+# In Java, there are only methods. In C, there are only functions.
+# For C++ it would depend on whether or not you're in a class.
